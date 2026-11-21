@@ -16,6 +16,7 @@ domains, placeholder phone numbers). It contains no real customer data and no ap
 | `generator/spec.php` | Background texts, names and the seeding specification of the 17 query classes |
 | `data/corpus.jsonl` | 2000 chats, one JSON object per line |
 | `data/queries.jsonl` | 354 queries, one JSON object per line, with the chats each query was planted into |
+| `data/results.csv` | Per-query results for configurations a–f |
 | `data/SHA256SUMS` | Checksums of the two data files |
 
 ## Regenerate
