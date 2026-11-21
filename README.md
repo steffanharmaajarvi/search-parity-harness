@@ -117,6 +117,10 @@ Two notes for exact reproduction of our numbers:
 - In `02_stemming`, `крокодил` is a known accepted divergence between Snowball stemmers of the two
   engines (PostgreSQL relates «крокодил» and «крокодилы» through the concatenated ru+en vector).
 
+## License
+
+MIT (see `LICENSE`), covering the generator and the data files.
+
 ## Citation
 
 If you use the corpus, please cite the accompanying paper (reference to be added).
